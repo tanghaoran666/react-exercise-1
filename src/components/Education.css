@@ -7,5 +7,11 @@ body::first-line {
   font-weight: bold;
 }
 #year {
-  border: 50px;
+  width: 10%;
+  display: inline-block;
+}
+
+body .education {
+  width: 90%;
+  display: inline-block;
 }
