@@ -1,0 +1,11 @@
+.education {
+  display: inline-block;
+  font-size: 15px;
+}
+
+body::first-line {
+  font-weight: bold;
+}
+#year {
+  border: 50px;
+}
